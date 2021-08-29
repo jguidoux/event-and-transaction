@@ -1,9 +1,9 @@
-package com.example.eventandtransactions
+package com.example.eventandtransactions.events
 
-import org.aspectj.lang.annotation.Before
+import com.example.eventandtransactions.events.MyRepository3
+import com.example.eventandtransactions.events.MyService3
+import com.example.eventandtransactions.events.Objet3
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.AfterEach
-import org.junit.jupiter.api.BeforeAll
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

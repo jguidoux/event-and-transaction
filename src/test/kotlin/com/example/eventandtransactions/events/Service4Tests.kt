@@ -1,7 +1,9 @@
-package com.example.eventandtransactions
+package com.example.eventandtransactions.events
 
+import com.example.eventandtransactions.events.MyRepository4
+import com.example.eventandtransactions.events.MyService4
+import com.example.eventandtransactions.events.Objet4
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

@@ -1,6 +1,5 @@
-package com.example.eventandtransactions
+package com.example.eventandtransactions.events
 
-import org.springframework.context.event.ContextStartedEvent
 import org.springframework.context.event.EventListener
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Service

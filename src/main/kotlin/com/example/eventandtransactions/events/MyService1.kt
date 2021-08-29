@@ -1,4 +1,4 @@
-package com.example.eventandtransactions
+package com.example.eventandtransactions.events
 
 import org.springframework.context.ApplicationEventPublisher
 import org.springframework.data.jpa.repository.JpaRepository

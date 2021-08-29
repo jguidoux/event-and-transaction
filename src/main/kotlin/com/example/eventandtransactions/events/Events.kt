@@ -1,4 +1,4 @@
-package com.example.eventandtransactions
+package com.example.eventandtransactions.events
 
 import java.time.LocalDateTime
 
