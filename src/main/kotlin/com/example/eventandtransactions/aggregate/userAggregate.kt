@@ -63,7 +63,5 @@ class Address(
     @Size(max = 100)
     var zipCode : String,
 
-) {
-
-}
+)
 
